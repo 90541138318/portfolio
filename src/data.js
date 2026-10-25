@@ -25,7 +25,7 @@ export const projects = [
     title: "Quiz Trivia",
     description: "An interactive trivia quiz that tests your knowledge across questions.", // TODO: adjust
     tech: ["HTML", "CSS", "JavaScript"], // TODO: confirm
-    live: "https://90541138318.github.io/quiztriva/quiz/", // TODO: this link gave a 404
+    live: "https://90541138318.github.io/quiztriva/", // TODO: this link gave a 404
     repo: "",
     image: null,
   },
