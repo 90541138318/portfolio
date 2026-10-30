@@ -2,13 +2,12 @@ export const profile = {
   name: "Phoolchand Singh",
   role: "Frontend Developer",
   tagline:
-    "A passionate web designer creating immersive web experiences and leaving a mark on the industry.",
+    "A creative web designer and developer building immersive digital experiences and striving to leave a lasting impression on the ever-evolving digital world.",
   // TODO: rewrite these in your own words
   about: [
-    "I'm a frontend developer who enjoys turning ideas into clean, responsive websites.",
-    "I build with HTML, CSS, JavaScript and React, and I use Firebase when a project needs a database.",
+    "I am a passionate and dedicated web developer with a strong foundation in frontend technologies. I enjoy creating visually appealing and user-friendly websites that provide seamless experiences for users.",
   ],
-  email: "", // add your email, e.g. "you@example.com"
+  email: "phoolchands779@gmail.com", // add your email, e.g. "you@example.com"
 };
 
 export const projects = [
@@ -38,11 +37,49 @@ export const projects = [
     repo: "",
     image: null,
   },
+    {
+    title: "Meme Generator",
+    description:
+      "A meme generator web app built with React and Vite for my web app hybrid assignment.",
+    tech: ["React", "Vite", "JavaScript"],
+    live: "https://90541138318.github.io/90541138318-webapp_hybridassign1/",
+    repo: "https://github.com/90541138318/90541138318-webapp_hybridassign1",
+    image: null,
+  },
+  {
+    title: "Interactive Media Gallery",
+    description:
+      "An interactive image gallery where clicking a picture opens it in a pop-up viewer, built with JavaScript DOM scripting.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    live: "https://90541138318.github.io/mtm6302-interactive-gallery-phoolchand/",
+    repo: "https://github.com/90541138318/mtm6302-interactive-gallery-phoolchand",
+    image: null,
+  },
+  {
+    title: "Blogr Landing Page",
+    description:
+      "A responsive landing page recreated from a Frontend Mentor challenge, with a mobile menu and dropdown navigation.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    live: "https://90541138318.github.io/Fm-Challenge/",
+    repo: "https://github.com/90541138318/Fm-Challenge",
+    image: null,
+  },
+  {
+    title: "Mike Media House",
+    description:
+      "A multi-page media services website with Home, Services and Contact pages, built to practice CSS Grid page layouts.",
+    tech: ["HTML", "CSS Grid"],
+    live: "https://90541138318.github.io/Midterm2/",
+    repo: "https://github.com/90541138318/Midterm2",
+    image: null,
+  },
 ];
 
 export const skills = [
   { group: "Frontend", items: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"] },
+  { group: "Design Tools", items: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "UI/UX Design"] },
   { group: "Tools & Backend", items: ["Vite", "Git & GitHub", "Firebase (Firestore)"] },
+
 ];
 
 // Links with an empty url are hidden automatically.
