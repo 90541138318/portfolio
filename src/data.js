@@ -1,6 +1,6 @@
 export const profile = {
   name: "Phoolchand Singh",
-  role: "Frontend Developer",
+  role: "Web Designer & Developer",
   tagline:
     "A creative web designer and developer building immersive digital experiences and striving to leave a lasting impression on the ever-evolving digital world.",
   // TODO: rewrite these in your own words
@@ -11,6 +11,15 @@ export const profile = {
 };
 
 export const projects = [
+  {
+    title: "Three Star Media",
+    description:
+      "A multi-section marketing website with services, team and contact form, built as my first-year web development final project.",
+    tech: ["HTML", "CSS"],
+    live: "https://90541138318.github.io/final-project/index.html",
+    repo: "",
+    image: null,
+  },
   {
     title: "TaskFlow",
     description:
@@ -28,15 +37,7 @@ export const projects = [
     repo: "",
     image: null,
   },
-  {
-    title: "Three Star Media",
-    description:
-      "A multi-section marketing website with services, team and contact form, built as my first-year web development final project.",
-    tech: ["HTML", "CSS"],
-    live: "https://90541138318.github.io/final-project/index.html",
-    repo: "",
-    image: null,
-  },
+  
     {
     title: "Meme Generator",
     description:
