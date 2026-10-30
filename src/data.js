@@ -5,7 +5,7 @@ export const profile = {
     "A creative web designer and developer building immersive digital experiences and striving to leave a lasting impression on the ever-evolving digital world.",
   // TODO: rewrite these in your own words
   about: [
-    "I am a passionate and dedicated web developer with a strong foundation in frontend technologies. I enjoy creating visually appealing and user-friendly websites that provide seamless experiences for users.",
+    "I am passionate about web development and enjoy exploring different web technologies. I love bringing ideas to life through creative designs and building visually appealing, user-friendly websites while continuously learning and growing in the ever-evolving world of the web.",
   ],
   email: "phoolchands779@gmail.com", // add your email, e.g. "you@example.com"
 };
@@ -64,15 +64,7 @@ export const projects = [
     repo: "https://github.com/90541138318/Fm-Challenge",
     image: null,
   },
-  {
-    title: "Mike Media House",
-    description:
-      "A multi-page media services website with Home, Services and Contact pages, built to practice CSS Grid page layouts.",
-    tech: ["HTML", "CSS Grid"],
-    live: "https://90541138318.github.io/Midterm2/",
-    repo: "https://github.com/90541138318/Midterm2",
-    image: null,
-  },
+  
 ];
 
 export const skills = [
